@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ru/categories/</loc>
+    <loc>https://kreicer.dev/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://kreicer.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/categories/"
+                href="https://kreicer.dev/ru/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/</loc>
+    <loc>https://kreicer.dev/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://kreicer.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/"
+                href="https://kreicer.dev/ru/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/series/</loc>
+    <loc>https://kreicer.dev/ru/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://kreicer.dev/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/series/"
+                href="https://kreicer.dev/ru/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/</loc>
+    <loc>https://kreicer.dev/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://kreicer.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/"
+                href="https://kreicer.dev/ru/tags/"
                 />
   </url>
 </urlset>
