@@ -2,52 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kreicer.dev/categories/</loc>
+    <loc>http://localhost:1313/dice-roller/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kreicer.dev/ru/categories/"
+                href="http://localhost:1313/ru/dice-roller/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kreicer.dev/categories/"
+                href="http://localhost:1313/dice-roller/"
                 />
   </url><url>
-    <loc>https://kreicer.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kreicer.dev/ru/"
+                href="http://localhost:1313/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kreicer.dev/"
-                />
-  </url><url>
-    <loc>https://kreicer.dev/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://kreicer.dev/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kreicer.dev/series/"
-                />
-  </url><url>
-    <loc>https://kreicer.dev/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://kreicer.dev/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kreicer.dev/tags/"
+                href="http://localhost:1313/"
                 />
   </url>
 </urlset>

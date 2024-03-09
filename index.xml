@@ -7,5 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://kreicer.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kreicer.dev/dice-roller/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/dice-roller/policy/</guid>
+      <description>Privacy Policy When visiting this website or using Dice Roller discord bot, no information is collected and stored about you.
+When using Dice Roller discord bot information about rolled dice may be collected. Also, you store information about shortcuts and custom dice in Dice Roller bot. You can delete all this information with in-bot command &amp;ldquo;/me&amp;rdquo;.
+For any privacy concern, please contact us at lulukreicer@yandex.ru.
+Back</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kreicer.dev/dice-roller/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/dice-roller/service/</guid>
+      <description>Terms of Service Introduction Welcome to Dice Roller’s Terms of Service. This document is a legal agreement between Dice Roller (“kreicer.github.io/dice-roller-bot”, “us,” “our,” or “we”) and you (“you” or “your”).
+By accessing our services, Discord “Bot” and Website, accessible from https://kreicer.dev/dice-roller/, you are agreeing to be bound by our Terms of Service and agree that you are responsible for the agreement with any applicable local laws.
+You agree that you are 13 years of age and the minimum age of digital consent in your country.</description>
+    </item>
   </channel>
 </rss>
