@@ -2,12 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kreicer.dev/dice-roller/</loc>
+    <loc>https://kreicer.dev/tags/acme/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kreicer.dev/dice-roller/policy/</loc>
+    <loc>https://kreicer.dev/tags/certificates/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kreicer.dev/dice-roller/service/</loc>
+    <loc>https://kreicer.dev/tags/go/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kreicer.dev/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/projects/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/tags/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/projects/triplec/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/projects/argazer/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/tags/argocd/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/tags/helm/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/tags/cli/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/projects/hanoi-cli/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/tags/kubernetes/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/tags/chaos-engineering/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/projects/omen/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/projects/columbo/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreicer.dev/categories/</loc>
   </url>
 </urlset>

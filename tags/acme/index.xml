@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Acme on Kreicer Krew</title>
+    <link>https://kreicer.dev/tags/acme/</link>
+    <description>Recent content in Acme on Kreicer Krew</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kreicer.dev/tags/acme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>triplec</title>
+      <link>https://kreicer.dev/projects/triplec/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/projects/triplec/</guid>
+      <description>A centralized ACME gateway to provision Let&amp;#39;s Encrypt certificates to isolated internal services</description>
+    </item>
+  </channel>
+</rss>

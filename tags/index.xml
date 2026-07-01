@@ -2,10 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kreicer Krew</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://kreicer.dev/tags/</link>
     <description>Recent content in Tags on Kreicer Krew</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kreicer.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acme</title>
+      <link>https://kreicer.dev/tags/acme/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/acme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certificates</title>
+      <link>https://kreicer.dev/tags/certificates/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/certificates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://kreicer.dev/tags/go/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Argocd</title>
+      <link>https://kreicer.dev/tags/argocd/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/argocd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helm</title>
+      <link>https://kreicer.dev/tags/helm/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/helm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cli</title>
+      <link>https://kreicer.dev/tags/cli/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/cli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://kreicer.dev/tags/kubernetes/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaos-Engineering</title>
+      <link>https://kreicer.dev/tags/chaos-engineering/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/tags/chaos-engineering/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
