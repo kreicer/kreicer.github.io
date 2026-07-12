@@ -43,5 +43,15 @@
       <guid>https://kreicer.dev/projects/columbo/</guid>
       <description>A minimal CLI to detect potentially forgotten Kubernetes pods using an explainable suspicion score.</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>https://kreicer.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kreicer.dev/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Dmitry Listopadov, a Staff DevOps Engineer and Cloud Architect.&lt;/p&gt;
+&lt;p&gt;I build engineering platforms for teams that have outgrown fragmented infrastructure and manual delivery. Over the past 10 years, my work has focused on the intersection of cloud architecture and platform engineering: Kubernetes, GitOps, CI/CD, identity, and observability. I&amp;rsquo;ve built platforms from scratch, led cloud migrations, and standardized how multiple teams ship software.&lt;/p&gt;
+&lt;h3 id=&#34;why-kreicer-krew&#34;&gt;Why Kreicer Krew?&lt;/h3&gt;
+&lt;p&gt;When you spend enough time managing infrastructure, you start noticing the same operational bottlenecks over and over. I created &lt;strong&gt;&lt;a href=&#34;https://github.com/k-krew&#34;&gt;Kreicer Krew&lt;/a&gt;&lt;/strong&gt; as a laboratory to solve these specific pain points.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
